@@ -28,3 +28,17 @@ CIA reviewed the code and found it clean and well-structured.
 ## Status
 
 W1D1 Python for ML — NumPy Fundamentals: COMPLETE
+
+## Viva Preparation
+
+### 1. What is broadcasting in NumPy?
+
+Broadcasting allows NumPy to perform operations between arrays of different but compatible shapes.
+
+### 2. Why is vectorised NumPy faster than Python loops?
+
+NumPy performs many operations using optimized compiled code, reducing the overhead of Python-level loops.
+
+### 3. When would you use a NumPy array vs a Pandas Series?
+
+Use a NumPy array for numerical array operations and a Pandas Series when working with labeled one-dimensional data.
