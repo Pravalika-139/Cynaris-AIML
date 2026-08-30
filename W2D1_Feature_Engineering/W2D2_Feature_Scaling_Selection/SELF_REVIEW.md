@@ -39,3 +39,9 @@ SelectKBest with ANOVA F-test was used to identify the top 5 numerical features 
 ## Status
 
 W2D2 Feature Scaling & Selection practical work completed.
+
+## Git Progress
+
+- Commit 1 completed: Feature scaling and selection implementation.
+- Notebook and self-review documentation committed successfully.
+- Ready for final Git push and Pull Request.
