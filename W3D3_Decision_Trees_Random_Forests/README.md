@@ -79,3 +79,11 @@ Hyperparameter tuning was used to control the complexity of the Decision Tree.
 Random Forest combines multiple Decision Trees and generally provides a more robust and stable classification model.
 
 Therefore, comparing both models helps identify the model that provides better generalization on unseen data.
+
+## Future Improvements
+
+- Use GridSearchCV for systematic hyperparameter tuning
+- Apply cross-validation for more reliable model evaluation
+- Compare additional classification algorithms
+- Track experiments using MLflow
+- Add automated tests for model performance
