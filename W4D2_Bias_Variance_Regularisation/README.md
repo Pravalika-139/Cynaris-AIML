@@ -84,3 +84,17 @@ Grid Search and Randomized Search provide systematic approaches for hyperparamet
 - [ ] Git changes committed with at least 2 descriptive commits.
 - [ ] Changes pushed to the feature branch.
 - [ ] Pull Request raised.
+
+## Viva Preparation
+
+### 1. What was built?
+
+Implemented Ridge and Lasso regularisation with GridSearchCV and RandomizedSearchCV to study the bias-variance tradeoff and tune hyperparameters.
+
+### 2. Hardest part
+
+Choosing suitable regularisation strengths and comparing model performance across different alpha values.
+
+### 3. Future improvement
+
+With more time, Optuna-based hyperparameter optimisation and MLflow experiment tracking could be added.
